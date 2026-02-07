@@ -61,3 +61,9 @@ The game relies on the following assets being in the same directory:
 *   `icon.png`
 *   `background.png` (Used in the main game)
 *   `apple.png` / `APPLE.jpg` (Used for game elements)
+
+## Author & Contact
+
+*   **Author:** Manya Jain
+*   **Contact:** cs1240351@iitd.ac.in
+
